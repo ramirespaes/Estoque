@@ -1,0 +1,22 @@
+D:\Faculdade\Teste\Sistema\Estoque\Dominio\bin\Debug\net8.0\Dominio.deps.json
+D:\Faculdade\Teste\Sistema\Estoque\Dominio\bin\Debug\net8.0\Dominio.dll
+D:\Faculdade\Teste\Sistema\Estoque\Dominio\bin\Debug\net8.0\Dominio.pdb
+D:\Faculdade\Teste\Sistema\Estoque\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\Teste\Sistema\Estoque\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+D:\Faculdade\Teste\Sistema\Estoque\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+D:\Faculdade\Teste\Sistema\Estoque\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Faculdade\Teste\Sistema\Estoque\Dominio\obj\Debug\net8.0\Dominio.dll
+D:\Faculdade\Teste\Sistema\Estoque\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+D:\Faculdade\Teste\Sistema\Estoque\Dominio\obj\Debug\net8.0\Dominio.pdb
+D:\Faculdade\Teste\Sistema\Estoque\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\Luis Quintino\Documents\testers\Estoque\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\Luis Quintino\Documents\testers\Estoque\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\Users\Luis Quintino\Documents\testers\Estoque\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\Users\Luis Quintino\Documents\testers\Estoque\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Quintino\Documents\testers\Estoque\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Luis Quintino\Documents\testers\Estoque\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\Luis Quintino\Documents\testers\Estoque\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Luis Quintino\Documents\testers\Estoque\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\Users\Luis Quintino\Documents\testers\Estoque\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\Luis Quintino\Documents\testers\Estoque\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\Users\Luis Quintino\Documents\testers\Estoque\Dominio\obj\Debug\net8.0\ref\Dominio.dll
